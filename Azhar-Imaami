@@ -527,7 +527,7 @@
                     </div>
                     
                     <div class="p-3 rounded-2 mb-3 glow-border" style="background: linear-gradient(135deg, var(--soft-lilac), var(--white));">
-                        <h3 class="h5 fw-bold mb-2"> Mera Vision:</h3>
+                        <h3 class="h5 fw-bold mb-2">🎯 Mera Vision:</h3>
                         <p class="fs-5 fw-semibold mb-0" style="color: var(--dark-navy);">
                             "Empowering Females to Empower"
                         </p>
@@ -800,7 +800,7 @@
                 <p class="fs-5 mb-3">Bas mujhe WhatsApp par message karein:</p>
                 <div class="row g-2 mb-3">
                     <div class="col-md-4"><div class="glow-border text-dark p-3 rounded" style="background: var(--soft-lilac);"><strong>📝 Name:</strong> Full Name</div></div>
-                    <div class="col-md-4"><div class="glow-border text-dark p-3 rounded" style="background: var(--soft-lilac);"><strong> Age:</strong> Your Age</div></div>
+                    <div class="col-md-4"><div class="glow-border text-dark p-3 rounded" style="background: var(--soft-lilac);"><strong>🎂 Age:</strong> Your Age</div></div>
                     <div class="col-md-4"><div class="glow-border text-dark p-3 rounded" style="background: var(--soft-lilac);"><strong>💼 Profession:</strong> Current Status</div></div>
                 </div>
                 <p class="fs-6 fw-semibold mb-3">📌 Save My Number: 9006110866</p>
@@ -812,14 +812,14 @@
             </div>
             
             <div class="card border-0 p-3 mb-3 glow-border" style="background: rgba(255,255,255,0.15);">
-                <h4 class="h5 fw-bold mb-2"> Within 24 hours:</h4>
+                <h4 class="h5 fw-bold mb-2">⏳ Within 24 hours:</h4>
                 <div class="row text-white">
-                    <div class="col-md-6"><div class="d-flex align-items-center gap-2 justify-content-center"> Complete Details</div></div>
-                    <div class="col-md-6"><div class="d-flex align-items-center gap-2 justify-content-center"> Clear Roadmap</div></div>
+                    <div class="col-md-6"><div class="d-flex align-items-center gap-2 justify-content-center">📋 Complete Details</div></div>
+                    <div class="col-md-6"><div class="d-flex align-items-center gap-2 justify-content-center">🗺 Clear Roadmap</div></div>
                 </div>
             </div>
             
-            <p class="fs-6 mb-2"> Empower her with skills • 🌈 Support her with vision • 🚀 Dreams to direction</p>
+            <p class="fs-6 mb-2">🌟 Empower her with skills • 🌈 Support her with vision • 🚀 Dreams to direction</p>
             <p class="fs-4 fw-bold mb-1">❤️ With Strength & Sincerity, Azhar Imaami</p>   
 </div>
     </section>
@@ -915,7 +915,7 @@
         const closeFormBtn = document.getElementById('closeFormBtn');
         
         // 👇 yaha tumhara Apps Script URL
-        const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxZaJIllGnTwkBXVc4XgF9DVDlZ76E3F3NHXgbHd6q0rfYUf5sbCCCp7aDmF6XHFm288g/exec";
+        const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxD2OIm-mzHlzxzrAVRMJSQ_WWILZfMGgGIowWYNrhefBVE5fSek3WaCqDsw_w-SfN_bw/exec";
         const WA_NUMBER_INT = "919006110866";
 
         function openForm(source = 'site') {
